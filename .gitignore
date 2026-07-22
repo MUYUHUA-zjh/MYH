@@ -1,1 +1,26 @@
+# ===== 本机/代理数据（不共享） =====
 .workbuddy/
+
+# ===== 编辑器 / IDE =====
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# ===== 操作系统生成文件 =====
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ===== 临时 / 日志 / 缓存 =====
+*.log
+*.tmp
+*.bak
+*.swp
+*.cache
+__pycache__/
+*.pyc
